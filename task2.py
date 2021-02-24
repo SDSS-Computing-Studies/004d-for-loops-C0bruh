@@ -30,4 +30,4 @@ for o in nameList:
         print("That name is on the list")
         break
 if o!=x:
-    print("That name is not one list")
+    print("That name is not on the list")
